@@ -1,0 +1,77 @@
+,,,,,,,,,,,,
+N°,Recipe Name,Ingredient 1,Ingredient 2,Ingredient 3,Ingredient 4,Cooking Tool,Normal Reward,Plated Reward,Craving Type 1,Craving Type 2,Craving Type 3,Plating
+1,Bread,Flour,Flour,Flour,,Oven,5C,1B,Snack,Bread,,Plate
+1,Bread,Flour,Flour,Flour,Flour,Big Oven,5C,1B,Snack,Bread,,Plate
+2,Potatoe Chips,Potatoe,Potatoe,Potatoe,,Oven,2C,Unknown,Snack,,,Plate
+3,Vegetable Soup,Veggie,Veggie,Another Veggie,,CrockPot,8C,1B 4C,Soup,Veggie,Snack,Bowl
+3,Vegetable Soup,Veggie,Veggie,Another Veggie,Another Veggie,Big CrockPot,8C,1B 4C,Soup,Veggie,Snack,Bowl
+4,,,,,,,,,,,,
+5,Fish Stew,Salmon,Salmon,Veggie,,CrockPot,8C,1B 4C,Fish,,,Bowl
+5,Fish Stew,Salmon,Salmon,Veggie,Veggie,Big CrockPot,8C,1B 4C,Fish,,,Bowl
+6,,,,,,,,,,,,
+7,,,,,,,,,,,,
+8,Potato Soup,Potatoe,Potatoe,Potatoe,,CrockPot,10C,1B 7C,Veggie,Snack,Soup,Bowl
+9,Fishball Skewers,Salmon,Salmon,Twigs,,Grill,10C,Unknown,Snack,Fish,,Plate
+10,Meatball,Meat scraps,Meat scraps,Veggie,,CrockPot,8C,1B 4C,Meat,Snack,,Plate
+10,Meatball,Meat scraps,Meat scraps,Meat scraps,,CrockPot,8C,1B 4C,Meat,Snack,,Plate
+11,Meat Skewers,Meat scraps,Meat scraps,Twigs,,Grill,10C,1B 4C,Meat,Snack,,Plate
+12,Stone Soup,Stone,Fern,Berry,,CrockPot,10C,5C,Snack,,,Bowl
+13,,,,,,,,,,,,
+14,Roast Vegetables,Veggie,Veggie,Veggie,,Grill & Oven,5C,1B 7C,Veggie,,,Plate
+15,,,,,,,,,,,,
+16,Carrot Soup,Carrot,Carrot,Carrot,,CrockPot,10C,1B 7C,Snack,Veggie,Soup,Bowl
+17,,,,,,,,,,,,
+18,,,,,,,,,,,,
+19,,,,,,,,,,,,
+20,,,,,,,,,,,,
+21,Fist Full of Jam,Berry,Berry,Berry,,CrockPot,1B,1B 2C,Snack,Dessert,,Plate
+21,Fist Full of Jam,Berry,Berry,Syrup,,CrockPot,1B,1B 2C,Snack,Dessert,,Plate
+22,Jelly Roll,Berry,Berry,Flour,,Oven,1B 2C,1B 4C,Dessert,,,Plate
+23,Carrot Cake,Flour,Flour,Carrot,,Oven,1B 6C,,,,,Plate
+24,,,,,,,,,,,,
+25,Garlic Bread,Flour,Flour,Garlic,,Oven,9C,,,,,Plate
+26,Tomato Soup,Tomato,Tomato,Tomato,,CrockPot,1B 8C,Unknown,Snack,,,Bowl
+27,,,,,,,,,,,,
+28,,,,,,,,,,,,
+29,,,,,,,,,,,,
+30,,,,,,,,,,,,
+31,,,,,,,,,,,,
+32,Meat Stew,Meat scraps,Meat scraps,Meat scraps,Meat scraps,Big CrockPot,9C,Unknown,Unknown,,,Bowl
+33,Hamburger,Flour,Meat scraps,Meat scraps,Spice,Big Grill,Unknown,Unknown,Unknown,,,Plate
+34,,,,,,,,,,,,
+35,,,,,,,,,,,,
+36,,,,,,,,,,,,
+37,,,,,,,,,,,,
+38,Spaghetti and Meatball,Flour,Meat scraps,Tomato,Veggie,Big CrockPot,2B 8C ,Unknown,Pasta,,,Plate
+39,Lasagna,Flour,Meat scraps,Tomato,Mushroom,Big Oven,Unknown,Unknown,Unknown,,,Plate
+40,,,,,,,,,,,,
+41,,,,,,,,,,,,
+42,Candy,Syrup,Syrup,Syrup,,CrockPot,,1R 6C,Dessert,,,Plate
+43,,,,,,,,,,,,
+44,,,,,,,,,,,,
+45,Berry tart,Flour,Berry,Syrup,,Oven,1R 6C,1R 1B 5C,Dessert,,,Plate
+46,Macaroni and Cheese,Flour,Milk,Milk,,CrockPot,1R 8C,1G 7C,Pasta,Cheese,,Bowl
+47,,,,,,,,,,,,
+48,,,,,,,,,,,,
+49,,,,,,,,,,,,
+50,,,,,,,,,,,,
+51,,,,,,,,,,,,
+52,,,,,,,,,,,,
+53,,,,,,,,,,,,
+54,,,,,,,,,,,,
+55,,,,,,,,,,,,
+56,,,,,,,,,,,,
+57,,,,,,,,,,,,
+58,,,,,,,,,,,,
+59,,,,,,,,,,,,
+60,,,,,,,,,,,,
+61,,,,,,,,,,,,
+62,,,,,,,,,,,,
+63,,,,,,,,,,,,
+64,,,,,,,,,,,,
+65,,,,,,,,,,,,
+66,Caramel Cube,Syrup,Milk,Milk,,CrockPot,1G 2C,1G 2C,Dessert,,,Plate
+67,,,,,,,,,,,,
+68,,,,,,,,,,,,
+69,,,,,,,,,,,,
+70,Syrup,Sap,Sap,Sap,   -,Syrup tool,-,-,,,,
